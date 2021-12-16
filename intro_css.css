@@ -1,0 +1,22 @@
+
+
+h1{
+    color: #808080;
+    text-align: left;
+    font-size: 110%;
+    font-family: 'Comic Sans MS', 'Comic Sans';
+}
+
+h2{
+    color:#808080;
+    text-align: left;
+    font-size: 100%;
+    font-family: 'Comic Sans MS', 'Comic Sans';
+}
+
+.paragrafo{
+    color: #000000;
+    text-align: left;
+    font-size: 100%;
+    font-family: 'Luminari','fantasy';
+}
